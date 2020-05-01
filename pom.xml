@@ -60,6 +60,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
+							<!-- Every module should define a property <module-main-class> -->
 							<mainClass>${module-main-class}</mainClass>
 						</manifest>
 						<manifestEntries>
