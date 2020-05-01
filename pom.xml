@@ -60,6 +60,11 @@
 						<manifest>
 							<mainClass>${module-main-class}</mainClass>
 						</manifest>
+						<manifestEntries>
+							<Built-By>Raphael Moita</Built-By>
+							<GitHub>https://github.com/raphaelmoita/multi-module-log4j-config</GitHub>
+							<LinkedIn>https://www.linkedin.com/in/raphaelmoita/</LinkedIn>
+						</manifestEntries>
 					</archive>
 				</configuration>
 				<executions>
